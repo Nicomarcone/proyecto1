@@ -1,0 +1,5 @@
+guitarra
+amplificador
+bajo
+teclado
+microfono
